@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "Two Brothers — Range Rover vs Land Rover (Reel)",
+    "format": "vertical_reel",
+    "aspect_ratio": "9:16",
+    "resolution": "4K",
+    "target_duration_seconds": 55,
+    "visual_style": "cinematic, ultra-photoreal, high-contrast, teal-orange highlights, soft film grain",
+    "color_grade": "luxury film look - deep shadows, warm highlights, slight teal lift in shadows",
+    "music_palette": "epic orchestral intro, warm strings, soft percussive heartbeat, swell at climax, calm resolve",
+    "voice_style": "deep warm narrator, measured pacing, slight reverb",
+    "temp_bpm": 60
+    
+  },
+
+  "scenes": [
+    {
+      "id": 1,
+      "title": "Hook - Family of Two",
+      "duration_seconds": 6,
+      "voiceover_text": "In every legendary family, there are two brothers—one born for the throne, one born for the battlefield.",
+      "visual": "Extreme close-up of two silhouettes at dawn on a ridge; slow pull-out that reveals two distant vehicles separated by light and shadow.",
+      "camera": "slow aerial pull-out, 24mm, slight dolly zoom",
+      "sfx_music": "soft wind, single low cello note",
+     "transition": "crossfade to scene 2"
+    },
+]
+}
+    {
+      "id": 2,
+      "title": "Intro Names",
+      "duration_seconds": 4,
+      "voiceover_text": "They called them Range Rover and Land Rover. Same blood. Different destiny.",
+      "visual": "Quick cinematic cut: embossed metallic nameplates 'RANGE ROVER' and 'LAND ROVER' appear in close-up with dramatic reflections.",
+      "camera": "macro lens, shallow depth of field, 1:1 to 1.8 aperture",
+      "sfx_music": "two short rising chimes synced to each name",
+      "transition": "hard cut to scene 3"
+    },
+
+    {
+      "id": 3,
+      "title": "Land Rover Origin - The Warrior",
+      "duration_seconds": 10,
+      "voiceover_text": "Land Rover was the firstborn—forged in mud, storms, and adventure. A machine built to conquer places humans weren’t sure they belonged.",
+      "visual": "Storm-swept Welsh coastline: an engineer sketches on wet sand as waves crash. The sketch dissolves into a Land Rover powering out of sand into mud & rocks.",
+      "camera": "close-up on hand sketch → match-cut to vehicle emerging (rack focus)",
+      "sfx_music": "rain, thunder, low timpani, aggressive tire rumble in slow motion",
+      "notes": "Use heavy texture: mud splatter in slow motion, lens water droplets"
+    },
+
+    {
+      "id": 4,
+      "title": "Land Rover Character - Courage",
+      "duration_seconds": 7,
+      "voiceover_text": "It didn’t care about comfort… it cared about courage.",
+      "visual": "Montage: Land Rover climbing rocky trail, crossing a swollen stream, kicking up mud — close-up on tires and suspension. Driver silhouette focused and calm.",
+      "camera": "low-angle tracking, gimbal, 50mm for action close-ups",
+      "sfx_music": "rhythmic low percussion, heartbeat undertone",
+      "transition": "speed ramp to scene 5"
+    },
+
+    {
+      "id": 5,
+      "title": "World Evolves - New Age",
+      "duration_seconds": 6,
+      "voiceover_text": "But then came a new age. Cities rose. Roads became smoother.",
+      "visual": "Time-lapse: dirt road morphs into asphalt, villages → lights → skyscrapers. Golden hour light warms the glass towers.",
+      "camera": "seamless aerial time-lapse, wide sweep",
+      "sfx_music": "string arpeggio building, subtle electronic texture"
+    },
+
+    {
+      "id": 6,
+      "title": "Range Rover Birth - The Crowned Heir",
+      "duration_seconds": 9,
+      "voiceover_text": "So the family forged a new legend—Range Rover, the crowned heir. Leather. Silence. Power.",
+      "visual": "Quiet atelier: hands stitch leather, chrome polish, soft golden light. The Range Rover emerges from shadow on a rotating pedestal, reflections immaculate.",
+      "camera": "slow cinematic reveal, 85mm portrait framing, soft focus background",
+      "sfx_music": "soft choral pad, ascending strings",
+      "notes": "Emphasize tactile textures: grain of leather, seam lines"
+    },
+
+    {
+      "id": 7,
+      "title": "Range Rover Character - Throne on Wheels",
+      "duration_seconds": 7,
+      "voiceover_text": "Not just an SUV— a moving throne with the heart of a warrior.",
+      "visual": "Range Rover glides through a glass-lined boulevard; interior slow-motion of passenger settling into silence; exterior catches sun like jewelry.",
+      "camera": "smooth dolly, interior over-the-shoulder close-ups, macro on quilted seats",
+      "sfx_music": "sustained French horn, soft woodwinds"
+    },
+
+    {
+      "id": 8,
+      "title": "Side-by-Side Contrast",
+      "duration_seconds": 6,
+      "voiceover_text": "Land Rover builds the path. Range Rover elevates the experience.",
+      "visual": "Split-screen vertical: left shows Land Rover forging a dirt track; right shows Range Rover cruising a sunlit avenue. Both progress forward in sync.",
+      "camera": "mirrored tracking shots, matched framing",
+      "sfx_music": "dual motif: primal percussion (left) + smooth piano (right)",
+      "notes": "Keep tonality distinct but harmonious"
+    },
+
+    {
+      "id": 9,
+      "title": "One Heritage, Two Missions",
+      "duration_seconds": 5,
+      "voiceover_text": "One is the heritage. The other is the crown.",
+      "visual": "Slow cross-cut of Land Rover badge on dusty grille then Range Rover badge on polished grille. Hands of driver from each vehicle shown (rough vs manicured).",
+      "camera": "macro cuts, 50mm",
+      "sfx_music": "quiet orchestral stinger"
+    },
+
+
+    {
+      "id": 10,
+      "title": "Final Horizon & End Line",
+      "duration_seconds": 5,
+      "voiceover_text": "Land Rover is the journey. Range Rover is the privilege.",
+      "visual": "Sunset wide shot: both vehicles on separate peaks overlooking a valley where wilderness and city meet. Silhouettes pause, then the camera pulls way up revealing the vast horizon.",
+      "camera": "epic crane pull-up to wide, 18mm, slow fade to black",
+      "sfx_music": "kgf theme",
+      "final_frame": "brand-agnostic cinematic logo lockup placeholder"
+    },
+  ],
+
+  "render_notes": {
+    "vo_sync": "Place VO lines exactly within each scene's duration; add 0.3s room for natural breath between lines.",
+    "motion": "Use subtle motion blur on fast cuts; keep slow-motion at 50-60fps equivalent. Use optical lens flares sparingly.",
+    "grade": "Separate LUTs for 'wild' (earthy, high-contrast) and 'luxury' (warm, satin highlights) scenes; match midtones for cohesion.",
+    "subtitles": "Generate short subtitle lines matching VO, center-bottom, sans-serif, semi-bold, 24pt with subtle drop shadow.",
+    "deliverables": [
+      "Master: 4K vertical 9:16, 55s",
+      "Trimmed: 30s cut for ad placements",
+      "Assets: VO WAV, OST stem, SFX stems, subtitle SRT"
+    ]
+  }
+}
